@@ -66,14 +66,13 @@ ____________________________
 
 **Umaima Akbar**  
 BS Data Science Student | Future in Data & AI
-🇵🇰 Pakistan
-[Github Account:](https://github.com/umaima-akbar)
-[Linkedlln Account:](https://www.linkedin.com/in/umaima-akbar-46b194355/)
+• [GitHub](https://github.com/umaima-akbar) 
+• [LinkedIn](https://www.linkedin.com/in/umaima-akbar-46b194355/)
 
 ____________________________
 
 ## 🤝 Special Thanks
 
-Thanks to the [CodeAlpha](https://www.linkedin.com/company/codealpha/posts/?feedView=all) for this internship opportunity and real-world learning experience.
+Thanks to the [CodeAlpha](https://www.codealpha.tech/) for this internship opportunity and real-world learning experience.
 
 ____________________________
