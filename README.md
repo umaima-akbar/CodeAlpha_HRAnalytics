@@ -58,7 +58,7 @@ ____________________________
 ## 📽️ Project Walkthrough (Video Explanation)
 
 🔗 *Video explanation posted on LinkedIn here:*  
-👉 [LinkedIn Video Link Goes Here]
+👉 [LinkedIn Video Link](https://www.linkedin.com/posts/umaima-akbar-46b194355_powerbi-powerbiinternship-dataanalytics-activity-7355871234330402816-5YBK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh7UpMBRQNFEBvo4SljFz_AQwcgS8FmZcc)
 
 ____________________________
 
@@ -67,6 +67,8 @@ ____________________________
 **Umaima Akbar**  
 BS Data Science Student | Future in Data & AI
 🇵🇰 Pakistan
+[Github Account:](https://github.com/umaima-akbar)
+[Linkedlln Account:](https://www.linkedin.com/in/umaima-akbar-46b194355/)
 
 ____________________________
 
